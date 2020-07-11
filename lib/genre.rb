@@ -1,3 +1,3 @@
-class Gentre
+class Genre
   
 end
