@@ -22,12 +22,12 @@ class Artist
     end
 
     def new_song(name, genre)
-        # name = Song.name
-        # genre = Song.genre
-
-        # Song.new(name, genre)
-        # Artist.song = name && genre
-        song.artist = self
+        # song = Song.new(name, genre)
+        # song.artist = self
+        # if name && genre 
+        #     @songs << song
+        #     song.artist = self
+        # end
     end
 
 end
