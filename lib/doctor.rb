@@ -24,7 +24,7 @@ end
 
   def patients
   appointments.map do |s|
-    s.genres
+    s.patient
   end
     end
 end
